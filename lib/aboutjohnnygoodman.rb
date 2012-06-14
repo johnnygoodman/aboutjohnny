@@ -1,5 +1,6 @@
 require "aboutjohnnygoodman/version"
+require "aboutjohnnygoodman/about"
 
 module Aboutjohnnygoodman
-  # Your code goes here...
+  
 end
