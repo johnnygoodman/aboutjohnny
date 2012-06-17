@@ -1,11 +1,11 @@
 class About
   def johnny(var)
     case
-    when 1
+    when var == 1
       "case option 1"
-    when 2
+    when var == 2
       "case option 2"
-    when 3
+    when var == 3
       "case option 3"
     end
   end
